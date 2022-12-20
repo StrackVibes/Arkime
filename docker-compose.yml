@@ -10,8 +10,6 @@ services:
       - cluster.name=es-docker-cluster
       - cluster.initial_master_nodes=es01
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-    volumes:
-      - ./elastic/esdata:/usr/share/elasticsearch/data
     ports:
       - 9200:9200
   arkime:
