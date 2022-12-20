@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+    container_name: elasticsearch
+    network_mode: host
+    environment:
+      - node.name=es01
+      - cluster.name=es-docker-cluster
+      - cluster.initial_master_nodes=es01
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - ./elastic/esdata:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+  arkime:
+    build:
+       context: .
+    image: falco/arkime:4.0.3
+    container_name: arkime
+    network_mode: host
+    environment:
+#Make this line true on first execution and false every other time
+      - INITALIZEDB=true
+      - ARKIME_PASSWORD=password
+      - WIPEDB=true
+      - ARKIME_VERSION=4.0.3-1_amd64
+      - UBUNTU_VERSION=20.04
+      - ES_HOST=localhost
+      - ES_PORT=9200
+      - ARKIME_INTERFACE=enp1s0
+      - CAPTURE=on
+      - VIEWER=on
+      - CONT3XT=on
+      - WISE=on
+    depends_on:
+      - elasticsearch
+    ports:
+      - 8005:8005
+    volumes:
+      - ./arkime/pcap:/data/pcap
+      - ./arkime/etc:/opt/arkime/etc
+      - ./arkime/logs:/opt/arkime/logs
+      - ./arkime/raw:/opt/arkime/raw

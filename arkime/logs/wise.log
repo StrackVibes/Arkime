@@ -1,0 +1,83 @@
+[[18:53:29.099]] [LOG]   alienvault - No export key defined
+[[18:53:29.102]] [LOG]   emergingthreats - No key defined
+[[18:53:29.104]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[18:53:29.105]] [LOG]   opendns - No key defined
+[[18:53:29.106]] [LOG]   passivetotal - No key defined
+[[18:53:29.108]] [LOG]   reversedns - No field defined
+[[18:53:29.172]] [LOG]   threatq - No export key defined
+[[18:53:29.176]] [LOG]   threatstream - No user defined
+[[18:53:29.178]] [LOG]   virustotal - No key defined
+[[18:53:31.096]] [LOG]   Express server listening on port 8081 in development mode
+[[18:54:46.608]] [LOG]   alienvault - No export key defined
+[[18:54:46.611]] [LOG]   emergingthreats - No key defined
+[[18:54:46.612]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[18:54:46.613]] [LOG]   opendns - No key defined
+[[18:54:46.615]] [LOG]   passivetotal - No key defined
+[[18:54:46.617]] [LOG]   reversedns - No field defined
+[[18:54:46.705]] [LOG]   threatq - No export key defined
+[[18:54:46.709]] [LOG]   threatstream - No user defined
+[[18:54:46.711]] [LOG]   virustotal - No key defined
+[[18:54:48.603]] [LOG]   Express server listening on port 8081 in development mode
+Tue, 20 Dec 2022 18:56:47 GMT [1mGET[0m [33m/views[0m 2 bytes 2.835 ms
+[[18:57:16.936]] [LOG]   alienvault - No export key defined
+[[18:57:16.939]] [LOG]   emergingthreats - No key defined
+[[18:57:16.941]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[18:57:16.942]] [LOG]   opendns - No key defined
+[[18:57:16.942]] [LOG]   passivetotal - No key defined
+[[18:57:16.943]] [LOG]   reversedns - No field defined
+[[18:57:17.000]] [LOG]   threatq - No export key defined
+[[18:57:17.004]] [LOG]   threatstream - No user defined
+[[18:57:17.005]] [LOG]   virustotal - No key defined
+[[18:57:18.935]] [LOG]   Express server listening on port 8081 in development mode
+Tue, 20 Dec 2022 18:57:22 GMT [1mGET[0m [33m/valueActions[0m 2 bytes 2.571 ms
+Tue, 20 Dec 2022 18:57:22 GMT [1mGET[0m [33m/fieldActions[0m 2 bytes 0.857 ms
+Tue, 20 Dec 2022 18:57:22 GMT [1mGET[0m [33m/views[0m 2 bytes 0.256 ms
+[[18:59:03.155]] [LOG]   alienvault - No export key defined
+[[18:59:03.157]] [LOG]   emergingthreats - No key defined
+[[18:59:03.159]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[18:59:03.159]] [LOG]   opendns - No key defined
+[[18:59:03.160]] [LOG]   passivetotal - No key defined
+[[18:59:03.162]] [LOG]   reversedns - No field defined
+[[18:59:03.219]] [LOG]   threatq - No export key defined
+[[18:59:03.223]] [LOG]   threatstream - No user defined
+[[18:59:03.225]] [LOG]   virustotal - No key defined
+[[18:59:05.153]] [LOG]   Express server listening on port 8081 in development mode
+Tue, 20 Dec 2022 18:59:08 GMT [1mGET[0m [33m/valueActions[0m 2 bytes 2.797 ms
+Tue, 20 Dec 2022 18:59:08 GMT [1mGET[0m [33m/fieldActions[0m 2 bytes 0.683 ms
+Tue, 20 Dec 2022 18:59:08 GMT [1mGET[0m [33m/views[0m 2 bytes 0.358 ms
+[[19:00:19.578]] [LOG]   alienvault - No export key defined
+[[19:00:19.580]] [LOG]   emergingthreats - No key defined
+[[19:00:19.582]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[19:00:19.583]] [LOG]   opendns - No key defined
+[[19:00:19.583]] [LOG]   passivetotal - No key defined
+[[19:00:19.584]] [LOG]   reversedns - No field defined
+[[19:00:19.647]] [LOG]   threatq - No export key defined
+[[19:00:19.651]] [LOG]   threatstream - No user defined
+[[19:00:19.652]] [LOG]   virustotal - No key defined
+[[19:00:21.575]] [LOG]   Express server listening on port 8081 in development mode
+[[19:01:44.124]] [LOG]   alienvault - No export key defined
+[[19:01:44.126]] [LOG]   emergingthreats - No key defined
+[[19:01:44.128]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[19:01:44.128]] [LOG]   opendns - No key defined
+[[19:01:44.129]] [LOG]   passivetotal - No key defined
+[[19:01:44.131]] [LOG]   reversedns - No field defined
+[[19:01:44.187]] [LOG]   threatq - No export key defined
+[[19:01:44.191]] [LOG]   threatstream - No user defined
+[[19:01:44.193]] [LOG]   virustotal - No key defined
+[[19:01:46.119]] [LOG]   Express server listening on port 8081 in development mode
+Tue, 20 Dec 2022 19:01:46 GMT [1mGET[0m [33m/valueActions[0m 2 bytes 2.001 ms
+Tue, 20 Dec 2022 19:01:46 GMT [1mGET[0m [33m/fieldActions[0m 2 bytes 0.478 ms
+Tue, 20 Dec 2022 19:01:46 GMT [1mGET[0m [33m/views[0m 2 bytes 0.519 ms
+[[19:14:05.188]] [LOG]   alienvault - No export key defined
+[[19:14:05.190]] [LOG]   emergingthreats - No key defined
+[[19:14:05.192]] [LOG]   hodiredis - ERROR not loading since no url specified in config file
+[[19:14:05.192]] [LOG]   opendns - No key defined
+[[19:14:05.193]] [LOG]   passivetotal - No key defined
+[[19:14:05.194]] [LOG]   reversedns - No field defined
+[[19:14:05.254]] [LOG]   threatq - No export key defined
+[[19:14:05.258]] [LOG]   threatstream - No user defined
+[[19:14:05.259]] [LOG]   virustotal - No key defined
+[[19:14:07.184]] [LOG]   Express server listening on port 8081 in development mode
+Tue, 20 Dec 2022 19:14:07 GMT [1mGET[0m [33m/valueActions[0m 2 bytes 2.436 ms
+Tue, 20 Dec 2022 19:14:07 GMT [1mGET[0m [33m/fieldActions[0m 2 bytes 0.445 ms
+Tue, 20 Dec 2022 19:14:07 GMT [1mGET[0m [33m/views[0m 2 bytes 0.485 ms

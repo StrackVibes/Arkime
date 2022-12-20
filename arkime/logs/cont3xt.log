@@ -1,0 +1,157 @@
+Strack is the best
+SECURITY WARNING - when userNameHeader is set, cont3xtHost should be localhost or use iptables
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+SECURITY WARNING - when userNameHeader is set, cont3xtHost should be localhost or use iptables
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+SECURITY WARNING - when userNameHeader is set, cont3xtHost should be localhost or use iptables
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+SECURITY WARNING - when userNameHeader is set, cont3xtHost should be localhost or use iptables
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Tue, 20 Dec 2022 18:07:51 GMT - [1mGET[0m [33m/[0m - bytes 3.454 ms
+Tue, 20 Dec 2022 18:07:56 GMT - [1mGET[0m [33m/[0m - bytes 10.494 ms
+Tue, 20 Dec 2022 18:07:57 GMT - [1mGET[0m [33m/[0m - bytes 0.714 ms
+Tue, 20 Dec 2022 18:07:57 GMT - [1mGET[0m [33m/favicon.ico[0m 15406 bytes 3.449 ms
+Tue, 20 Dec 2022 18:13:04 GMT - [1mGET[0m [33m/[0m - bytes 0.378 ms
+User digest doesn't exist
+Tue, 20 Dec 2022 18:13:15 GMT - [1mGET[0m [33m/[0m - bytes 5.878 ms
+Tue, 20 Dec 2022 18:13:27 GMT - [1mGET[0m [33m/[0m - bytes 0.505 ms
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Tue, 20 Dec 2022 18:17:55 GMT anonymous [1mGET[0m [33m/[0m 805 bytes 18.835 ms
+Tue, 20 Dec 2022 18:17:56 GMT - [1mGET[0m [33m/font-awesome/css/font-awesome.min.css[0m 31000 bytes 12.141 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/static/js/runtime.878c01132f1f93a17550.js[0m 1551 bytes 11.882 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/static/css/app.ed28e31a13f5cb09f157.css[0m 282215 bytes 3.015 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/static/js/app.ed28e31a13f5cb09f157.js[0m 1484196 bytes 2.953 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/api/views/?[0m 27 bytes 16.588 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/api/integration[0m 35541 bytes 19.007 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/api/linkGroup/?[0m 32 bytes 21.958 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/api/roles[0m 166 bytes 15.085 ms
+Tue, 20 Dec 2022 18:17:56 GMT anonymous [1mGET[0m [33m/api/user[0m 341 bytes 14.639 ms
+Tue, 20 Dec 2022 18:17:56 GMT - [1mGET[0m [33m/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0[0m 77160 bytes 1.079 ms
+Tue, 20 Dec 2022 18:18:00 GMT anonymous [1mGET[0m [33m/api/integration/stats[0m 4792 bytes 5.551 ms
+Tue, 20 Dec 2022 18:18:02 GMT anonymous [1mGET[0m [33m/api/integration/settings[0m 5217 bytes 6.125 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/abuseipdb/icon.png[0m 8974 bytes 2.448 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/alienvaultotx/icon.png[0m 2359 bytes 1.550 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/bgpview/icon.png[0m 16145 bytes 4.321 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/builtwith/icon.png[0m 8604 bytes 4.235 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/malwarebazaar/icon.png[0m 6804 bytes 4.704 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/censys/icon.png[0m 20238 bytes 5.086 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/greynoise/icon.png[0m 7736 bytes 4.158 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/passivetotal/icon.png[0m 9751 bytes 1.402 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/shodan/icon.png[0m 19406 bytes 5.103 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/virustotal/icon.png[0m 5863 bytes 4.440 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/urlhaus/icon.png[0m 6555 bytes 2.471 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/urlscan/icon.png[0m 9453 bytes 2.215 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/threatfox/icon.png[0m 3558 bytes 2.272 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/threatstream/icon.png[0m 17874 bytes 1.843 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/passivetotal/iconSubDomains.png[0m 18084 bytes 5.110 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/twilio/icon.png[0m 10780 bytes 4.709 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/spur/icon.png[0m 23297 bytes 6.574 ms
+Tue, 20 Dec 2022 18:18:04 GMT - [1mGET[0m [33m/integrations/passivetotal/iconWhois.png[0m 24483 bytes 5.558 ms
+Tue, 20 Dec 2022 18:18:06 GMT anonymous [1mGET[0m [33m/api/health[0m 16 bytes 5.233 ms
+Tue, 20 Dec 2022 18:18:16 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.249 ms
+Tue, 20 Dec 2022 18:18:20 GMT anonymous [1mGET[0m [33m/api/audits/?startMs=1670955499027&stopMs=1671560299027&seeAll=false[0m 28 bytes 12.515 ms
+Tue, 20 Dec 2022 18:18:20 GMT anonymous [1mPOST[0m [33m/api/users[0m 463 bytes 18.041 ms
+Tue, 20 Dec 2022 18:18:26 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.872 ms
+Tue, 20 Dec 2022 18:18:36 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.074 ms
+Tue, 20 Dec 2022 18:18:47 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.787 ms
+Tue, 20 Dec 2022 18:18:57 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.919 ms
+Tue, 20 Dec 2022 18:19:07 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.113 ms
+Tue, 20 Dec 2022 18:19:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.961 ms
+Tue, 20 Dec 2022 18:19:27 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.542 ms
+Tue, 20 Dec 2022 18:19:37 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.982 ms
+Tue, 20 Dec 2022 18:19:46 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 5.174 ms
+Tue, 20 Dec 2022 18:19:54 GMT anonymous [1mPOST[0m [33m/api/integration/search[0m - bytes 6.477 ms
+Tue, 20 Dec 2022 18:19:56 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.136 ms
+Tue, 20 Dec 2022 18:20:06 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.718 ms
+Tue, 20 Dec 2022 18:20:16 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.256 ms
+Tue, 20 Dec 2022 18:20:26 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.508 ms
+Tue, 20 Dec 2022 18:20:36 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.835 ms
+Tue, 20 Dec 2022 18:20:38 GMT anonymous [1mGET[0m [33m/api/integration/stats[0m 4983 bytes 5.472 ms
+Tue, 20 Dec 2022 18:20:46 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.724 ms
+Tue, 20 Dec 2022 18:20:56 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.658 ms
+Tue, 20 Dec 2022 18:20:59 GMT anonymous [1mGET[0m [33m/api/audits/?startMs=1670955658272&stopMs=1671560458272&seeAll=false[0m 186 bytes 9.085 ms
+Tue, 20 Dec 2022 18:21:05 GMT anonymous [1mDELETE[0m [33m/api/audit/XMLDMIUBTYI2cMmXdtSY[0m 33 bytes 36.701 ms
+Tue, 20 Dec 2022 18:21:06 GMT anonymous [1mPOST[0m [33m/api/users[0m 463 bytes 13.074 ms
+Tue, 20 Dec 2022 18:21:06 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.264 ms
+Tue, 20 Dec 2022 18:21:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.757 ms
+Tue, 20 Dec 2022 18:21:26 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.975 ms
+Tue, 20 Dec 2022 18:21:37 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.023 ms
+Tue, 20 Dec 2022 18:21:47 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.361 ms
+Tue, 20 Dec 2022 18:21:57 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.540 ms
+Tue, 20 Dec 2022 18:22:07 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.763 ms
+Tue, 20 Dec 2022 18:22:12 GMT anonymous [1mPOST[0m [33m/api/users[0m 463 bytes 11.684 ms
+Tue, 20 Dec 2022 18:22:16 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.382 ms
+Tue, 20 Dec 2022 18:22:27 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.327 ms
+Tue, 20 Dec 2022 18:22:37 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 6.072 ms
+Tue, 20 Dec 2022 18:22:47 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.420 ms
+Tue, 20 Dec 2022 18:22:57 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.102 ms
+Tue, 20 Dec 2022 18:23:07 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.550 ms
+Tue, 20 Dec 2022 18:23:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.686 ms
+Tue, 20 Dec 2022 18:23:27 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 6.272 ms
+Tue, 20 Dec 2022 18:23:37 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.144 ms
+Tue, 20 Dec 2022 18:23:46 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.678 ms
+Tue, 20 Dec 2022 18:23:48 GMT anonymous [1mPOST[0m [33m/api/integration/search[0m - bytes 8.499 ms
+Tue, 20 Dec 2022 18:23:48 GMT - [1mGET[0m [33m/integrations/whois/icon.png[0m 15193 bytes 1.067 ms
+Tue, 20 Dec 2022 18:23:56 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.359 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/?b=YnVwZGF0ZXIuY29t[0m 805 bytes 9.843 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/api/integration[0m - bytes 7.870 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/api/views/?[0m - bytes 10.276 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/api/linkGroup/?[0m - bytes 8.482 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/api/user[0m - bytes 341.977 ms
+Tue, 20 Dec 2022 18:24:02 GMT anonymous [1mGET[0m [33m/api/roles[0m - bytes 342.439 ms
+Tue, 20 Dec 2022 18:24:06 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.833 ms
+Tue, 20 Dec 2022 18:24:13 GMT anonymous [1mGET[0m [33m/api/integration/settings[0m - bytes 3.972 ms
+Tue, 20 Dec 2022 18:24:14 GMT anonymous [1mGET[0m [33m/api/integration/stats[0m 5173 bytes 4.155 ms
+Tue, 20 Dec 2022 18:24:15 GMT anonymous [1mGET[0m [33m/api/integration/settings[0m - bytes 4.257 ms
+Tue, 20 Dec 2022 18:24:16 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 7.664 ms
+Tue, 20 Dec 2022 18:24:26 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.248 ms
+Tue, 20 Dec 2022 18:24:28 GMT anonymous [1mGET[0m [33m/api/audits/?startMs=1670955867731&stopMs=1671560667731&seeAll=false[0m 186 bytes 6.871 ms
+Tue, 20 Dec 2022 18:24:36 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.658 ms
+Tue, 20 Dec 2022 18:24:39 GMT anonymous [1mGET[0m [33m/api/integration/stats[0m - bytes 4.061 ms
+Tue, 20 Dec 2022 18:24:46 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.943 ms
+Tue, 20 Dec 2022 18:24:56 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.237 ms
+Tue, 20 Dec 2022 18:24:58 GMT anonymous [1mGET[0m [33m/api/integration/settings[0m - bytes 6.924 ms
+Tue, 20 Dec 2022 18:25:06 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.251 ms
+Tue, 20 Dec 2022 18:25:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.993 ms
+Tue, 20 Dec 2022 18:25:27 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.290 ms
+Tue, 20 Dec 2022 18:25:36 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.183 ms
+Tue, 20 Dec 2022 18:25:47 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.526 ms
+Tue, 20 Dec 2022 18:25:57 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.112 ms
+Tue, 20 Dec 2022 18:26:07 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.582 ms
+Tue, 20 Dec 2022 18:26:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.462 ms
+Tue, 20 Dec 2022 18:26:26 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.749 ms
+Tue, 20 Dec 2022 18:26:36 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.734 ms
+Tue, 20 Dec 2022 18:26:46 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 2.072 ms
+Tue, 20 Dec 2022 18:26:54 GMT anonymous [1mPOST[0m [33m/api/integration/search[0m - bytes 8.117 ms
+Tue, 20 Dec 2022 18:26:56 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.104 ms
+Tue, 20 Dec 2022 18:27:06 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.232 ms
+Tue, 20 Dec 2022 18:27:16 GMT anonymous [1mPOST[0m [33m/api/integration/search[0m - bytes 3.971 ms
+Tue, 20 Dec 2022 18:27:17 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 2.709 ms
+Tue, 20 Dec 2022 18:27:27 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 3.641 ms
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
