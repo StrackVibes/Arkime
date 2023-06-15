@@ -15,7 +15,7 @@ services:
   arkime:
     build:
        context: .
-    image: falco/arkime:4.0.3
+    image: falco/arkime:4.3.2-1
     container_name: arkime
     network_mode: host
     environment:
