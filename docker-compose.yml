@@ -2,7 +2,7 @@ version: '3'
 
 services:
   elasticsearch:
-    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.1
     container_name: elasticsearch
     network_mode: host
     environment:
@@ -23,8 +23,8 @@ services:
       - INITALIZEDB=true
       - ARKIME_PASSWORD=password
       - WIPEDB=true
-      - ARKIME_VERSION=4.0.3-1_amd64
-      - UBUNTU_VERSION=20.04
+      - ARKIME_VERSION=4.3.2-1_amd64
+      - UBUNTU_VERSION=22.04
       - ES_HOST=localhost
       - ES_PORT=9200
       - ARKIME_INTERFACE=enp1s0
