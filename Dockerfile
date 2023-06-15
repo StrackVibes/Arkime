@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:20.04
 MAINTAINER Strack
 
 RUN apt-get -qq update && \
@@ -7,7 +7,7 @@ apt-get install -yq curl wget libwww-perl libjson-perl ethtool libyaml-dev file 
 rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 # Declare args
 ARG ARKIME_VERSION=4.3.2-1_amd64
-ARG UBUNTU_VERSION=22.04
+ARG UBUNTU_VERSION=20.04
 ARG ES_HOST=elasticsearch
 ARG ES_PORT=9200
 ARG ARKIME_PASSWORD=PASSWORDCHANGEME
