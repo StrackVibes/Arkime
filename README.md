@@ -1,4 +1,4 @@
-# Arkime 4.0.3
+# Arkime 4.3.2
 1) git clone https://github.com/StrackVibes/Arkime.git
     - cd ./Arkime
 2) sysctl -w vm.max_map_count=262144
