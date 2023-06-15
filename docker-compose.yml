@@ -24,7 +24,7 @@ services:
       - ARKIME_PASSWORD=password
       - WIPEDB=true
       - ARKIME_VERSION=4.3.2-1_amd64
-      - UBUNTU_VERSION=22.04
+      - UBUNTU_VERSION=20.04
       - ES_HOST=localhost
       - ES_PORT=9200
       - ARKIME_INTERFACE=enp1s0
