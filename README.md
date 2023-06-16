@@ -134,7 +134,7 @@ _For tool usage, please refer to the [Arkime Documentation]([https://example.com
 | ES_HOST           | localhost       | Should use `elasticsearch` or 'localhost' depending on network type      |
 | ES_PORT           | 9200            | Elastic search port in elastic search container or exposed in any server |
 | ARKIME_INTERFACE  | eth0            | Network interface to listen                                              |
-| CAPTURE           | on              | Uses the capture interface to collect traffic                            |
+| CAPTURE           | off              | Uses the capture interface to collect traffic                            |
 | VIEWER            | on              | Can be utilized via port 8005                                            |
 | CONT3XT           | on              | Can be utilized via port 3218                                            |
 | WISE              | on              | Turns plugin on/off                                                      |
