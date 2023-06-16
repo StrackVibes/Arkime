@@ -15,7 +15,7 @@ services:
   arkime:
     build:
        context: .
-    image: falco/arkime:4.3.2-1
+    image: strackvibes/arkime:4.3.2-1
     container_name: arkime
     network_mode: host
     environment:
@@ -27,8 +27,8 @@ services:
       - UBUNTU_VERSION=20.04
       - ES_HOST=localhost
       - ES_PORT=9200
-      - ARKIME_INTERFACE=eth0
-      - CAPTURE=on
+      - ARKIME_INTERFACE=enp1s0
+      - CAPTURE=off
       - VIEWER=on
       - CONT3XT=on
       - WISE=on
