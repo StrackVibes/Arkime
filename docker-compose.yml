@@ -25,9 +25,9 @@ services:
       - WIPEDB=true
       - ARKIME_VERSION=4.3.2-1_amd64
       - UBUNTU_VERSION=20.04
-      - ES_HOST=localhost
+      - ES_HOST=elasticsearch
       - ES_PORT=9200
-      - ARKIME_INTERFACE=enp1s0
+      - ARKIME_INTERFACE=eno0
       - CAPTURE=on
       - VIEWER=on
       - CONT3XT=on
