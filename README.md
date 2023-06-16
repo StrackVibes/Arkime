@@ -122,7 +122,22 @@ _For tool usage, please refer to the [Arkime Documentation]([https://example.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Arkime Environment variables available
 
+| NAME              | DEFAULT VALUE   |  NOTES                                                                   |
+| --------------    | --------------- | ---------------------------------------------------------------------    |
+| INITALIZEDB       | true            | Make this true on the first execution and false every other time         |
+| ARKIME_PASSWORD   | password        | To connect admin use on the web interface                                |
+| WIPEDB            | true            | Erases all data                                                          |
+| ARKIME_VERSION    | 4.3.2-1_amd64   | According to [Arkime version nomenclature](https://arkime.com/downloads) |
+| UBUNTU_VERSION    | 20.04           | The version of Ubuntu base container                                     |
+| ES_HOST           | elasticsearch   | If you us docker-compose, you should name your service  `elasticsearch`  |
+| ES_PORT           | 9200            | Elastic search port in elastic search container or exposed in any server |
+| ARKIME_INTERFACE  | eth0            | Network interface to listen                                              |
+| CAPTURE           | on              | Uses the capture interface to collect traffic                            |
+| VIEWER            | on              | Can be utilized via port 8005                                            |
+| CONT3XT           | on              | Can be utilized via port 3218                                            |
+| WISE              | on              | Turns plugin on/off                                                      |
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -180,7 +195,7 @@ Project Link: [https://github.com/StrackVibes/Arkime](https://github.com/StrackV
 ## Acknowledgments
 
 * [Arkime](https://github.com/arkime/arkime)
-* [Mammo0](https://github.com/mammo0/docker-arkime/blob/master/README.md)
+* [MathieM](https://github.com/MathieM/docker-moloch/blob/master/README.md)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
