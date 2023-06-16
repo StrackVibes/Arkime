@@ -1,1 +1,46 @@
 
+Express server listening on host :: port 3218 in development mode
+ConnectionError: getaddrinfo ENOTFOUND elasticsearch
+    at ClientRequest.onError (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Connection.js:114:16)
+    at ClientRequest.emit (node:events:513:28)
+    at Socket.socketErrorListener (node:_http_client:494:9)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: null,
+    statusCode: null,
+    headers: null,
+    meta: {
+      context: null,
+      request: [Object],
+      name: 'elasticsearch-js',
+      connection: [Object],
+      attempts: 2,
+      aborted: false
+    }
+  }
+}
+Express server listening on host :: port 3218 in development mode
+Successful deletion of null expired history logs
+Express server listening on host :: port 3218 in development mode
+Successful deletion of 0 expired history logs
+Fri, 16 Jun 2023 16:47:42 GMT anonymous [1mGET[0m [33m/[0m 848 bytes 80.910 ms
+Fri, 16 Jun 2023 16:47:42 GMT - [1mGET[0m [33m/font-awesome/css/font-awesome.min.css[0m 31000 bytes 12.262 ms
+Fri, 16 Jun 2023 16:47:42 GMT anonymous [1mGET[0m [33m/static/js/runtime.102efa4a9f247a2e659b.js[0m 1667 bytes 13.193 ms
+Fri, 16 Jun 2023 16:47:42 GMT anonymous [1mGET[0m [33m/static/css/app.7d14b07267b66ebbbe8c.css[0m 283567 bytes 8.383 ms
+Fri, 16 Jun 2023 16:47:42 GMT anonymous [1mGET[0m [33m/static/js/app.7d14b07267b66ebbbe8c.js[0m 1502476 bytes 8.271 ms
+Fri, 16 Jun 2023 16:47:43 GMT anonymous [1mGET[0m [33m/api/integration[0m 36520 bytes 12.110 ms
+Fri, 16 Jun 2023 16:47:43 GMT anonymous [1mGET[0m [33m/api/views/?[0m 27 bytes 21.878 ms
+Fri, 16 Jun 2023 16:47:43 GMT anonymous [1mGET[0m [33m/api/user[0m 341 bytes 13.698 ms
+Fri, 16 Jun 2023 16:47:43 GMT anonymous [1mGET[0m [33m/api/linkGroup/?[0m 32 bytes 25.221 ms
+Fri, 16 Jun 2023 16:47:43 GMT - [1mGET[0m [33m/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0[0m 77160 bytes 8.439 ms
+Fri, 16 Jun 2023 16:47:43 GMT anonymous [1mGET[0m [33m/api/roles[0m 166 bytes 18.812 ms
+Fri, 16 Jun 2023 16:47:43 GMT - [1mGET[0m [33m/favicon.ico[0m 15406 bytes 5.039 ms
+Fri, 16 Jun 2023 16:47:53 GMT anonymous [1mGET[0m [33m/api/health[0m 16 bytes 5.988 ms
+Fri, 16 Jun 2023 16:48:03 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 5.613 ms
+Fri, 16 Jun 2023 16:48:13 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 6.084 ms
+Fri, 16 Jun 2023 16:48:23 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.847 ms
+Fri, 16 Jun 2023 16:48:33 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 4.190 ms
+Fri, 16 Jun 2023 16:48:43 GMT anonymous [1mGET[0m [33m/api/health[0m - bytes 2.616 ms

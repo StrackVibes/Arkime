@@ -1,1 +1,71 @@
 
+ERROR - fetching aliases ConnectionError: getaddrinfo ENOTFOUND elasticsearch
+ERROR - getting OpenSearch/Elasticsearch client info failed, is it running? ConnectionError: getaddrinfo ENOTFOUND elasticsearch
+    at ClientRequest.onError (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Connection.js:114:16)
+    at ClientRequest.emit (node:events:513:28)
+    at Socket.socketErrorListener (node:_http_client:494:9)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: null,
+    statusCode: null,
+    headers: null,
+    meta: {
+      context: null,
+      request: [Object],
+      name: 'elasticsearch-js',
+      connection: [Object],
+      attempts: 2,
+      aborted: false
+    }
+  }
+}
+WARNING - Couldn't find plugin cont3xt.js in [ '/opt/arkime/plugins' ]
+Express server listening on port 8005 in development mode
+This node will process Periodic Queries (CRON) & Hunts, delayed by 85 seconds
+WARNING - Couldn't find plugin cont3xt.js in [ '/opt/arkime/plugins' ]
+Express server listening on port 8005 in development mode
+This node will process Periodic Queries (CRON) & Hunts, delayed by 85 seconds
+Fri, 16 Jun 2023 16:46:17 GMT - [1mGET[0m [33m/[0m 401 - bytes 4.250 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/[0m 302 60 bytes 13.556 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/sessions[0m 200 - bytes 65.462 ms
+Fri, 16 Jun 2023 16:46:22 GMT - [1mGET[0m [33m/font-awesome/css/font-awesome.min.css[0m 200 - bytes 11.988 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/static/js/runtime.70972873abb1f0cae29e.js[0m 200 - bytes 11.607 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/static/css/app.541541cf258645ade33a.css[0m 200 - bytes 6.304 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/static/js/app.541541cf258645ade33a.js[0m 200 - bytes 1.839 ms
+Fri, 16 Jun 2023 16:46:22 GMT - [1mGET[0m [33m/assets/Arkime_Logo_Mark_White.png[0m 200 2525 bytes 3.758 ms
+Fri, 16 Jun 2023 16:46:22 GMT - [1mGET[0m [33m/favicon.ico[0m 200 - bytes 3.449 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/api/appinfo[0m 200 - bytes 62.616 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 1.304 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 1.019 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 21.877 ms
+Fri, 16 Jun 2023 16:46:22 GMT - [1mGET[0m [33m/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0[0m 200 77160 bytes 2.196 ms
+Fri, 16 Jun 2023 16:46:22 GMT admin [1mGET[0m [33m/static/js/984.207e66522f4fe9266127.js[0m 200 - bytes 3.542 ms
+Fri, 16 Jun 2023 16:46:30 GMT admin [1mGET[0m [33m/api/user/config/spiview[0m 200 38 bytes 7.605 ms
+Fri, 16 Jun 2023 16:46:30 GMT admin [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 7.194 ms
+Fri, 16 Jun 2023 16:46:30 GMT admin [1mPOST[0m [33m/api/spiview?facets=1&spi=destination.ip:100&date=1&startTime=1686930390&stopTime=1686933990&bounding=last&interval=auto[0m 200 464 bytes 8.600 ms
+Fri, 16 Jun 2023 16:46:30 GMT admin [1mPOST[0m [33m/api/spiview?facets=0&spi=source.ip:100&date=1&startTime=1686930390&stopTime=1686933990&bounding=last&interval=auto[0m 200 110 bytes 7.750 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mPOST[0m [33m/api/users[0m 200 322 bytes 21.057 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/user[0m 200 670 bytes 5.807 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/user/settings[0m 200 327 bytes 4.503 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/user/state/sessionsNew[0m 200 2 bytes 1.596 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/user/columns[0m 200 2 bytes 1.304 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/user/spiview[0m 200 2 bytes 1.297 ms
+Fri, 16 Jun 2023 16:46:31 GMT admin [1mGET[0m [33m/api/notifiers[0m 200 2 bytes 9.623 ms
+Fri, 16 Jun 2023 16:46:32 GMT admin [1mPOST[0m [33m/api/users[0m 200 322 bytes 24.548 ms
+Fri, 16 Jun 2023 16:46:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 1.594 ms
+Fri, 16 Jun 2023 16:46:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 11.038 ms
+Fri, 16 Jun 2023 16:46:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 0.543 ms
+Fri, 16 Jun 2023 16:47:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 11.288 ms
+Fri, 16 Jun 2023 16:47:04 GMT admin [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 6.686 ms
+Fri, 16 Jun 2023 16:47:04 GMT admin [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 1.151 ms
+Fri, 16 Jun 2023 16:47:04 GMT admin [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 17.436 ms
+Fri, 16 Jun 2023 16:47:06 GMT admin [1mGET[0m [33m/api/user/config/spiview[0m 200 38 bytes 1.750 ms
+Fri, 16 Jun 2023 16:47:06 GMT admin [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 1.183 ms
+Fri, 16 Jun 2023 16:47:06 GMT admin [1mPOST[0m [33m/api/spiview?facets=1&spi=destination.ip:100&date=1&startTime=1686930426&stopTime=1686934026&bounding=last&interval=auto[0m 200 464 bytes 6.220 ms
+Fri, 16 Jun 2023 16:47:06 GMT admin [1mPOST[0m [33m/api/spiview?facets=0&spi=source.ip:100&date=1&startTime=1686930426&stopTime=1686934026&bounding=last&interval=auto[0m 200 110 bytes 5.932 ms
+Fri, 16 Jun 2023 16:47:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 6.738 ms
+Fri, 16 Jun 2023 16:47:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 0.804 ms
+Fri, 16 Jun 2023 16:47:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 460 bytes 10.370 ms
