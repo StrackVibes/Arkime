@@ -4,7 +4,6 @@ services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.0
     container_name: elasticsearch
-#    network_mode: host
     environment:
       - node.name=es01
       - cluster.name=es-docker-cluster
@@ -17,7 +16,6 @@ services:
        context: .
     image: strackvibes/arkime:4.3.2-1
     container_name: arkime
-#    network_mode: host
     environment:
 #Make this line true on first execution and false every other time
       - INITALIZEDB=true
