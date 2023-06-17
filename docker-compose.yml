@@ -36,6 +36,8 @@ services:
       - elasticsearch
     ports:
       - 8005:8005
+      - 3218:3218
+      - 8081:8081
     volumes:
       - ./arkime/pcap:/data/pcap
       - ./arkime/etc:/opt/arkime/etc
