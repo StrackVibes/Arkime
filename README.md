@@ -18,7 +18,7 @@
 <h3 align="center">Arkime Simplified Setup</h3>
 
   <p align="center">
-    Welcome to the Arkime Simplified Setup project! This project aims to simplify the process of setting up Arkime, which can be daunting for brand new network analysts. Unlike the traditional Arkime build, this repository provides a streamlined approach using Docker Compose and environment variables.
+    Welcome to the Arkime Simplified Setup! This project aims to simplify the process of setting up Arkime, which can be daunting for brand-neww network analysts. Unlike the traditional Arkime build, this repository provides a streamlined approach using Docker Compose and environment variables.
     <br />
     ·
     <a href="https://github.com/StrackVibes/Arkime/issues">Report Bug</a>
@@ -131,7 +131,7 @@ _For tool usage, please refer to the [Arkime Documentation]([https://example.com
 | WIPEDB            | true            | Erases all data                                                          |
 | ARKIME_VERSION    | 4.3.2-1_amd64   | According to [Arkime version nomenclature](https://arkime.com/downloads) |
 | UBUNTU_VERSION    | 20.04           | The version of Ubuntu base container                                     |
-| ES_HOST           | localhost       | Should use `elasticsearch` or `localhost` depending on network type      |
+| ES_HOST           | elasticsearch   | Should use `elasticsearch` or `localhost` depending on network type      |
 | ES_PORT           | 9200            | Elastic search port in elastic search container or exposed in any server |
 | ARKIME_INTERFACE  | eth0            | Network interface to listen                                              |
 | CAPTURE           | off              | Uses the capture interface to collect traffic                            |
