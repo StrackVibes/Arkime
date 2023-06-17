@@ -33,7 +33,6 @@ if [ "$WISE" = "on" ]
 then
     echo "Launch wise..."
     node $ARKIMEDIR/wiseService/wiseService.js >> $ARKIMEDIR/logs/wise.log 2>&1 &
-    sleep 10
 fi
 
 if [ "$CAPTURE" = "on" ]
@@ -42,9 +41,11 @@ then
     if [ "$VIEWER" = "on" ]
     then
         # Background execution
+	sleep 10
         $ARKIMEDIR/bin/capture >> $ARKIMEDIR/logs/capture.log 2>&1 &
     else
         # If only capture, foreground execution
+	sleep 10
         $ARKIMEDIR/bin/capture |tee -a $ARKIMEDIR/logs/capture.log 2>&1
     fi
 fi
