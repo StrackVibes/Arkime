@@ -24,7 +24,7 @@ if [ "$WIPEDB" = "true" ]; then
 fi
 
 echo "Look at log files for errors"
-echo "  /opt/arkime/logs/{Instance}.log"
+echo "  ./arkime/logs/{Instance}.log"
 echo "Visit http://127.0.0.1:8005 with your favorite browser."
 echo "  user: admin"
 echo "  password: $ARKIME_PASSWORD"
@@ -33,7 +33,7 @@ if [ "$WISE" = "on" ]
 then
     echo "Launch wise..."
     node $ARKIMEDIR/wiseService/wiseService.js >> $ARKIMEDIR/logs/wise.log 2>&1 &
-    sleep 1
+    sleep 10
 fi
 
 if [ "$CAPTURE" = "on" ]
