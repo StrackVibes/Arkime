@@ -8,10 +8,10 @@ rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 # Declare args
 ARG ARKIME_VERSION=4.3.2-1_amd64
 ARG UBUNTU_VERSION=20.04
-ARG ES_HOST=localhost
+ARG ES_HOST=elasticsearch
 ARG ES_PORT=9200
 ARG ARKIME_PASSWORD=password
-ARG AKIME_INTERFACE=enp1s0
+ARG AKIME_INTERFACE=eth0
 ARG CAPTURE=off
 ARG VIEWER=on
 ARG CONT3XT=on
