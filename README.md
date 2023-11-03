@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/StrackVibes/Arkime">
-    <img src="https://i.ibb.co/PMmJLhS/Arkime-Logo-Full-Gradient-Black-2x.png" alt="Logo" >
+    <img src="https://i.ibb.co/Ws4Nvcj/Arkime-Logo-Full-Gradient-Black-2x.png" alt="Logo" >
   </a>
 
 <h3 align="center">Arkime Simplified Setup</h3>
