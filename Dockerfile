@@ -37,9 +37,6 @@ ENV INITALIZEDB $INITALIZEDB
 ENV WIPEDB=$WIPEDB
 
 RUN mkdir -p /data
-RUN cd /data && curl -C - -O "https://s3.amazonaws.com/files.molo.ch/builds/ubuntu-"$UBUNTU_VERSION"/arkime_"$ARKIME_VERSION".deb"
-RUN cd /data && dpkg -i "arkime_"$ARKIME_VERSION".deb"
-
 RUN cd /data && curl -C - -O "https://github.com/arkime/arkime/releases/download/"$ARKIME_VERSION"/arkime_"$ARKIME_VERSION"-1.ubuntu"$UBUNTU_VERSION".deb"
 RUN cd /data && dpkg -i "arkime_"$ARKIME_VERSION"-1.ubuntu"$UBUNTU_VERSION".deb"
 # add scripts
