@@ -6,8 +6,8 @@ apt-get -qq update && \
 apt-get install -yq curl wget libwww-perl libjson-perl ethtool libyaml-dev file && \
 rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 # Declare args
-ARG ARKIME_VERSION=4.3.2-1_amd64
-ARG UBUNTU_VERSION=20.04
+ARG ARKIME_VERSION=5.0.0
+ARG UBUNTU_VERSION=2004_amd64
 ARG ES_HOST=elasticsearch
 ARG ES_PORT=9200
 ARG ARKIME_PASSWORD=password
@@ -40,6 +40,8 @@ RUN mkdir -p /data
 RUN cd /data && curl -C - -O "https://s3.amazonaws.com/files.molo.ch/builds/ubuntu-"$UBUNTU_VERSION"/arkime_"$ARKIME_VERSION".deb"
 RUN cd /data && dpkg -i "arkime_"$ARKIME_VERSION".deb"
 
+RUN cd /data && curl -C - -O "https://github.com/arkime/arkime/releases/download/"$ARKIME_VERSION"/arkime_"$ARKIME_VERSION"-1.ubuntu"$UBUNTU_VERSION".deb"
+RUN cd /data && dpkg -i "arkime_"$ARKIME_VERSION"-1.ubuntu"$UBUNTU_VERSION".deb"
 # add scripts
 ADD /arkime/scripts /data/
 ADD /arkime/etc /opt/arkime/etc/
