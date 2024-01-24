@@ -129,7 +129,7 @@ _For tool usage, please refer to the [Arkime Documentation]([https://example.com
 | INITALIZEDB       | true            | Make this true on the first execution and false every other time         |
 | ARKIME_PASSWORD   | password        | To connect admin use on the web interface                                |
 | WIPEDB            | true            | Erases all data                                                          |
-| ARKIME_VERSION    | 4.3.2-1_amd64   | According to [Arkime version nomenclature](https://arkime.com/downloads) |
+| ARKIME_VERSION    | 4.3.2-1_amd64   | According to [Arkime version nomenclature](https://github.com/arkime/arkime/releases) |
 | UBUNTU_VERSION    | 20.04           | The version of Ubuntu base container                                     |
 | ES_HOST           | elasticsearch   | Should use `elasticsearch` or `localhost` depending on network type      |
 | ES_PORT           | 9200            | Elastic search port in elastic search container or exposed in any server |
