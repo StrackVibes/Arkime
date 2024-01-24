@@ -18,7 +18,7 @@
 <h3 align="center">Arkime Simplified Setup</h3>
 
   <p align="center">
-    Welcome to the Arkime Simplified Setup! This project aims to simplify the process of setting up Arkime, which can be daunting for brand-neww network analysts. Unlike the traditional Arkime build, this repository provides a streamlined approach using Docker Compose and environment variables.
+    Welcome to the Arkime Simplified Setup! This project aims to simplify the process of setting up Arkime, which can be daunting for brand-new network analysts. Unlike the traditional Arkime build, this repository provides a streamlined approach using Docker Compose and environment variables.
     <br />
     ·
     <a href="https://github.com/StrackVibes/Arkime/issues">Report Bug</a>
